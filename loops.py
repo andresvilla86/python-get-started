@@ -1,4 +1,4 @@
-#Loop "for" examples
+#Loop "for" examples:
 
 car_brands = ["Ferrari", "Tesla", "Jaguar"]
 for x in car_brands:
