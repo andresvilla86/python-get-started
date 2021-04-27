@@ -1,4 +1,5 @@
 #define a function
+#remember this is a function
 def func1():
    print ("I am learning Python function")
    print ("still in func1")
