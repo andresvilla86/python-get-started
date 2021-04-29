@@ -2,4 +2,4 @@
 
 En progreso 
 
-Curso planificado 
+Curso planificado para la 2da semana de junio
